@@ -23,7 +23,7 @@ Aspiring Entrepreneur and Data Scientist 📊 | Master’s in Data Science Candi
   - Conducted an in-depth analysis of conversational patterns from 100,000 transcribed podcast episodes, identifying key psychological components such as memory, empathy, and contextual comprehension that contribute to effective and engaging communication.
   - Applied advanced AI techniques to emulate human cognitive functions, resulting in a 20% improvement in AI models' ability to understand and respond to emotional and contextual nuances in user interactions, enhancing the overall relatability and effectiveness of AI communication tools.
 
-- **Analysing the Impact of International Events on Special Drawing Rights (SDR) using EDA **
+- **Analysing the Impact of International Events on Special Drawing Rights (SDR) using EDA - [Repository](https://github.com/DeKu420/Analysing-the-Impact-of-International-Events-on-Special-Drawing-Rights-SDR-An-Exploratory-Data-An)**
   - Analyzed impact of international events on SDR using Python Jupyter Notebook, processing over 5 years of data (2016-2021).
   - Preformed data cleaning (normalized 39 names), outlier detection (DBSCAN clustering on 24 quarters of data), dimensionality reduction (PCA reducing features by 50%), and feature selection (identified top 19 impactful countries via linear regression).
   - Created a visualization tool for SDR values, highlighting significant changes such as a 20% increase during Covid-19.
